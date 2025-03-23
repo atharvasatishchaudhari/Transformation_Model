@@ -1,0 +1,6 @@
+torch
+gradio
+tokenizers
+datasets
+torchmetrics
+tqdm
